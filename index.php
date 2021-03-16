@@ -2,17 +2,17 @@
 
     <head>
 
-        <link rel="stylesheet" href="secondwave.css">
+        <link rel="stylesheet" href="css/secondwave.css">
 
     </head>
 
     <body>
         <div class="main">
-            <img src="menufont.png" alt="The Second Wave">
+            <img src="css/images/menufont.png" alt="The Second Wave">
             
             <br><br>
 
-            <h1>Developed by Asylum Studios</h1>
+            <h1>Developed by Asylsum Studios</h1>
 
             <br><br><br>
 
