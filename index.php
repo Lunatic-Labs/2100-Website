@@ -7,17 +7,28 @@
     </head>
 
     <body>
+
+    <ul class="navigation">
+        <li class="nav-item"><a href="#">Home</a></li>
+        <li class="nav-item"><a href="#">About</a></li>
+        <li class="nav-item"><a href="#">Contact</a></li>
+    </ul>
+
+    <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+    <label for="nav-trigger"></label>
+
+<div class="site-wrap">
+
         <div class="main">
+            <br><br><br><br><br><br><br>
+            <h3>2100:</h3>
             <img src="css/images/menufont.png" alt="The Second Wave">
             
             <br><br>
 
-            <h1>Developed by Asylsum Studios</h1>
-
             <br><br><br>
 
-            <h2>Sign up for Notifications</h2>
-
+            <h2>SIGN UP FOR NOTIFICATIONS</h2>
 
             <br><br>
             <form action="insert.php" method="post">
@@ -27,6 +38,9 @@
             <input class="button" type="submit" />
 
             </form>
+
+            <p>Developed by Asylsum Studios</p>
+        </div>
         </div>
     </body>
 </html>
