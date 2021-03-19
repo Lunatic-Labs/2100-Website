@@ -58,6 +58,34 @@ h3 {
     letter-spacing: 35px;
 }
 
+p.team {
+    margin: 10px 0px;
+    font-size: 12321px;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+h4 {
+    margin: 10px 0px;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 700;
+  }
+  
+  h5 {
+    margin: 10px 0px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 700;
+  }
+  
+  h6 {
+    margin: 10px 0px;
+    font-size: 12px;
+    line-height: 18px;
+    font-weight: 700;
+  }
+  
 form {
     text-align: center;
 }
@@ -249,3 +277,14 @@ html, body { height: 100%; width: 100%; font-family: Helvetica, Arial, sans-seri
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.container { 
+    display: table;
+  }
+  .content { 
+    display: table-row; 
+    height: 100%; 
+  }
+  .content-body { 
+    display: table-cell;
+  }
