@@ -8,3 +8,11 @@ majority of mankind in the process. A small team of specially trained individual
 themselves to find a cure and end the robot reign. 
 
 Can you survive the second wave?
+
+#Site Info
+
+This site is made from a template that can be found here - http://www.mashup-template.com/preview.html?template=factory
+
+This is not set in stone, and the website can be completely redone however you like, as long as it encapsulates the vibe of the game.
+
+If you need access to anything that I've forgotten about, contact me at vludwigv@gmail.com
